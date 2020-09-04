@@ -1,4 +1,12 @@
 var DATABASE = `
+
+GODOT PATH FOLLOWING
+  LINK : https://kidscancode.org/blog/2018/04/godot3_tanks_part3/
+  TYPE : article
+  DATE : 12020-09-04
+  TAGS : gamedev, code
+  DONE : true
+
 AGAINST BEAUTY IN PHYSICS
   PERS : faun
   SRCE : Merveilles
